@@ -3,9 +3,6 @@
   "name": "adopte-skin ",
   "version": "0.1.1",
   "description":"Remove adopte's pink tacky theme",
-  "permissions": [
-    "tabs"
-  ],
   "content_scripts":[
     {
       "matches":["https://www.adopteunmec.com/*"],
