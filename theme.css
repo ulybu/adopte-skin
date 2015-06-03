@@ -16,7 +16,8 @@ a, a:visited, a:hover,
 
 .logo > a > img,
 h2, .pic,
-.smileys {
+.smileys,
+.basket {
 	display: none !important;
 }
 
