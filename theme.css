@@ -1,0 +1,27 @@
+body,
+.navbar a, .navbar a:hover,
+#pop-bar .pop-container span,
+.action .content, .action .left,
+#mailbox #mailbox-content .message-content .status,
+#mailbox #mailbox-content .message-content .status span{
+  background: none !important;
+}
+
+#mailbox #mailbox-content .message-content .status span,
+a, a:visited, a:hover,
+#mailbox #mailbox-content.message-list h3,
+.person.suggestion .city, .person.mailbox .time{
+	color: gray !important;
+}
+
+.logo > a > img,
+h2, .pic,
+.smileys {
+	display: none !important;
+}
+
+#my-popularity #ma-popu span,
+.cart .nb-products,
+.navbar .overview a {
+  color: white !important;
+}
