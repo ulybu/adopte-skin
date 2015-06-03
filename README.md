@@ -11,7 +11,7 @@ Currently only supports chrome
 4. ok.. I agree.. blah.. done !
 
 ##Switch on/off
-Currently there is no quick button, so you can do it manually by going to [chrome://extensions/](chrome://extensions/), finding the extension and disabled it
+Currently there is no quick button, so you can do it manually by going to _[chrome://extensions/](chrome://extensions/)_, finding the extension and disabled it
 
 ## Uninstall
 Official [instructions](https://support.google.com/chrome/answer/167997?hl=en-GB)
